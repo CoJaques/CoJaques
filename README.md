@@ -16,7 +16,7 @@ CS Student at HEIG Yverdon
 
 ## Contact
 - 📧 [Email Address](mailto:colin.jaques@heig-vd.ch)
-- 🔗 [LinkdIn](mailto:www.linkedin.com/in/colin-jaques)
+- 🔗 [LinkdIn](www.linkedin.com/in/colin-jaques)
 
 Feel free to reach out if you have any questions, suggestions, or want to discuss interesting projects!
 
