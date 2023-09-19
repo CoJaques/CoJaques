@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Colin Jaques 
+CS Student at HEIG Yverdon
 
-<!--
-**CoJaques/CoJaques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 📚 Currently an embedded computer systems student at HEIG Yverdon.
+- 💻 Passionate about programming, embedded systems, and application development.
+- 🌐 Love exploring new ideas and working on interesting projects.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** C#/Wpf, C++, C, Java
+- **Development Tools:** Git, Visual Studio Code, Visual Studio Community
+- **Industrials knowledges** PLC Beckhoff, Twincat, industrial communication, machine systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Projects
+- 🚀 currently no recent public projects
+
+## Contact
+- 📧 [Email Address](mailto:colin.jaques@heig-vd.ch)
+- 🔗 [LinkdIn](mailto:www.linkedin.com/in/colin-jaques)
+
+Feel free to reach out if you have any questions, suggestions, or want to discuss interesting projects!
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoJaques&show_icons=true)](https://github.com/CoJaques)
