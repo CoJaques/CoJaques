@@ -13,7 +13,7 @@
 - **Industrials knowledges** PLC Beckhoff, Twincat, industrial communication, machine systems
 
 ## Recent Projects
-- 🚀 currently no recent public projects
+- 🚀 [Lionk](https://github.com/Lionk-Framework/Lionk) Li/onk Core is a modular platform developed in .NET designed to enable the management and integration of various components through plugins.
 
 ## Contact
 - 📧 [Email Address](mailto:colin.jaques@heig-vd.ch)
