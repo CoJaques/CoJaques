@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A603FE&height=120&section=header"/>
 
-# Systems & Embedded Developer | Software Engineer
+# Software Engineer
 
 ## About Me
 - 📚 Computer Science student at HEIG (School of Engineering) in Yverdon, Switzerland.
-- 💻 Passionate about software development, embedded systems, and application design.
+- 💻 Passionate about software development, embedded systems, and software architecture.
 - 🌐 Enthusiastic about exploring cutting-edge technologies and working on innovative projects.
 
 ## Technical Skills
