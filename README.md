@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A603FE&height=120&section=header"/>
 
-# Software Engineer
+# Software Developer
 
 ## About Me
 - 📚 Computer Science student at HEIG (School of Engineering) in Yverdon, Switzerland.
