@@ -3,33 +3,13 @@
 # Software Developer
 
 ## About Me
-- 📚 Computer Science Master's student at EPFL in Lausanne, Switzerland.  
-- ⚙️ Embedded Systems Engineering graduate from HEIG-VD.  
-- 💻 Passionate about software development, embedded systems, and software architecture.  
-- 🌐 Enthusiastic about exploring cutting-edge technologies and working on innovative projects.  
-
-## Technical Skills
-
-### Programming & Development
-- **Languages:** C#, C++, C, Java, VHDL, Python, SQL
-- **Project Management:** Agile methodologies, project planning
-
-### Systems & Infrastructure
-- **Operating Systems:** Linux kernel development, embedded Linux
-- **Low-level Programming:** Device drivers, firmware, microcontrollers
-- **DevOps:** CI/CD pipelines, containerization
-
-### Industrial Expertise
-- **Automation:** PLC Beckhoff, TwinCAT
-- **Industrial Communication:** Fieldbus protocols, OPC UA, MQTT, Modbus
-- **Hardware Integration:** Sensors, actuators, interface design
-- **Manufacturing Systems:** Control systems, process automation, real-time systems
+- Computer Science Master's student at EPFL in Lausanne, Switzerland.  
+- Embedded Systems Engineering graduate from HEIG-VD.  
+- Passionate about software development, embedded systems, and software architecture.  
+- Enthusiastic about exploring cutting-edge technologies and working on innovative projects.  
 
 ## Recent Projects
 - 🚀 [Lionk](https://github.com/Lionk-Framework/Lionk) - A modular platform developed in .NET designed to enable management and integration of various components through plugins.
 
 ## Contact
 - 📧 [Email](mailto:colin.jaques@epfl.ch)
-- 🔗 [LinkedIn](www.linkedin.com/in/colin-jaques)
-
-Feel free to reach out if you have any questions, suggestions, or want to collaborate on interesting projects.
