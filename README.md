@@ -3,7 +3,7 @@
 # Software Developer
 
 ## Recent Projects
-- 🛰️ [EPFL Spacecraft Team](https://epfl-spacecraft-team.ch) - Currently working on CHESS flight software
+- 🛰️ [EPFL Spacecraft Team](https://www.epflspacecraftteam.ch/) - Currently working on CHESS flight software
 - 📊 [DataAggregator](https://github.com/CoJaques/DataAggregator) - Scalable platform to collect and process industrial data, from a single machine to a full plant, with real-time pipelines and ML support.
 - 🚀 [Lionk](https://github.com/Lionk-Framework/Lionk) - A modular platform developed in .NET designed to enable management and integration of various components through plugins.
 
